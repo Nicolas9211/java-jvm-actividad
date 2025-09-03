@@ -1,0 +1,10 @@
+# Archivos de Java y OS
+*.class
+*.log
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+out/
+bin/
+target/
